@@ -3,11 +3,6 @@
 
 A Data Analysis and Visualization project that combines exploratory data analysis, Tableau dashboards, and machine learning to understand and predict employee attrition using the IBM HR Analytics dataset.
 
-**Course:** Data Analysis and Visualization (3CS103ME24)
-**Institution:** Nirma University, Ahmedabad
-**Authors:** Aditi Shah (23BEC177), Eera Bhargava (23BEI020)
-**Submitted To:** Dr. Jai Prakash V. Verma
-
 ---
 
 ## Objective
