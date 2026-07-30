@@ -121,7 +121,3 @@ Built an HR Analytics Dashboard covering:
 - Deploy the best-performing model via a simple web app for HR teams to use interactively
 
 ---
-
-## 📄 License
-
-This project was created for academic purposes as part of the Data Analysis and Visualization course at Nirma University.
